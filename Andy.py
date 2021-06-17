@@ -57,7 +57,7 @@ L.extend([23, 24])
 L.pop(3)
 
 #E1
-d = {'nom':'Duplus', 'prenom':'Jacques', 'age':30}
+d = {'nom':'Dupuis', 'prenom':'Jacques', 'age':30}
 print(d.keys())
 print(d.values())
 print(d)
