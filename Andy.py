@@ -9,24 +9,23 @@ moyenne = []
 moy = (Andy['SDA'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['Python'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['Python'][1] + Andy['Python'][2] + Andy['Python'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['Anglais'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['Anglais'][1] + Andy['Anglais'][2] + Andy['Anglais'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['LTP'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['LTP'][1] + Andy['LTP'][2] + Andy['LTP'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['Calcul Matriciel'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['Calcul Matriciel'][1] + Andy['Calcul Matriciel'][2] + Andy['Calcul Matriciel'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['SE'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['SE'][1] + Andy['SE'][2] + Andy['SE'][2])/3
 moyenne.append(moy)
 
-moy = (Andy['Services Réseaux'][1] + Andy['SDA'][2] + Andy['SDA'][2])/3
+moy = (Andy['Services Réseaux'][1] + Andy['Services Réseaux'][2] + Andy['Services Réseaux'][2])/3
 moyenne.append(moy)
-
 
 Moy = (moyenne[0]+moyenne[1]+moyenne[2]+moyenne[3]+moyenne[4]+moyenne[5]+moyenne[6])/7
 
